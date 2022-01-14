@@ -1,0 +1,23 @@
+.my-nav {
+    opacity : 50%;
+    width: 100%;
+}
+
+.my-bg {
+    background-image: url('everaldo-coelho-KPaSCpklCZw-unsplash.jpg');
+    height : 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-bottom: solid 2px darkslategrey; 
+}
+
+.my-btn {
+    margin-top : 35vh;
+    border-color: white;
+    color : white;
+}
+
+.my-btn:hover, .my-btn:active {
+    color: goldenrod;
+}
