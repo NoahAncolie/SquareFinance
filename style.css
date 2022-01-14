@@ -13,11 +13,16 @@
 }
 
 .my-btn {
-    margin-top : 35vh;
+    margin-top : 30vh;
     border-color: white;
     color : white;
+    font-size : 180%;
 }
 
 .my-btn:hover, .my-btn:active {
-    color: goldenrod;
+    color: rgb(0, 255, 106);
+}
+
+.my-img {
+    width : 30vw;
 }
