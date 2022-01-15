@@ -9,14 +9,14 @@
       <div class="col-4">
         <div class="card" style="width: 18rem;">
           <img src="./courtier3.jpg" class="card-img-top" alt="...">
-          <div class="card-body" style='background-color :#cbedbf'>
+          <div class="card-body" style='background-color :#235558'>
             <h5 class="card-title">Dik Hed</h5>
             <p class="card-text">L'un de nos courtier spécialisé dans le commerce d'or et de pierres précieuses.</p>
             <a href="#" class="btn btn-outline-light" id='babygreen'>Télécharger la brochure</a>
           </div>
         </div>
       </div>
-      <div class="col-6" style ='padding: 30px; color : #235558; background-color : #cbedbf; border-radius: 10px 0 0 10px;'>
+      <div class="col-6" style ='padding: 30px; color : #cbedbf; background-color : #235558; border-radius: 10px 0 0 10px;'>
         <h2>
           Une Renomée Internationale<br><br>
           <small>

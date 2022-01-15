@@ -58,6 +58,16 @@
     background-color: #235558;
 }
 
+#reversegreen {
+    border-color : #cbedbf;
+    color : #cbedbf;
+}
+
+#reversegreen:hover, #reversegreen:active {
+    color : #235558;
+    border-color : #235558;
+    background-color: #cbedbf;
+}
 
 .decouvrir {
     margin-top : 100px;
