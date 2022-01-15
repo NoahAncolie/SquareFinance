@@ -1,6 +1,9 @@
 .my-nav {
-    opacity : 50%;
-    width: 100%;
+    background-color : #235558;
+}
+
+.my-link {
+    color : #cbedbf;
 }
 
 .my-bg {
@@ -9,20 +12,62 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    border-bottom: solid 2px darkslategrey; 
+    border-radius: 0 0 8% 8%;
 }
 
 .my-btn {
     margin-top : 30vh;
-    border-color: white;
-    color : white;
+    border-color: #cbedbf;
+    color : #cbedbf;
     font-size : 180%;
 }
 
 .my-btn:hover, .my-btn:active {
-    color: rgb(0, 255, 106);
+    color: #cbedbf;
+    background-color : #235558;
+    border-color : #235558;
 }
 
 .my-img {
     width : 30vw;
 }
+
+.my-brand {
+    margin-left : 20px;
+}
+
+.btn-outline-light, #greentea{
+    border-color : #fd8e9e;
+    color : #fd8e9e;
+}
+
+.btn-outline-light:hover, .btn-outline-light:active{
+    background-color : #fd8e9e  ;
+    color : #3b1841;
+    border-color : #3b1841;
+}
+
+#babygreen {
+    border-color : #235558;
+    color : #235558;
+}
+
+#babygreen:hover, #babygreen:active {
+    color : #cbedbf;
+    border-color : #cbedbf;
+    background-color: #235558;
+}
+
+
+.decouvrir {
+    margin-top : 100px;
+}
+
+/*
+    Russian Violet #3b1841
+    Mystic Maroon : #B43B76
+    Salmon Pink : #fd8e9e
+    Tea Green : #cbedbf
+    Dark State Gray : #235558
+*/
+

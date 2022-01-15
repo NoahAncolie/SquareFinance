@@ -1,0 +1,30 @@
+
+
+<a class="navbar-brand" href="#">
+    <img src="./small-card.png" width="30" height="30" alt="">
+  </a>
+
+  <div class="container-fluid bg-bg">
+    <div class="row">
+      <div class="col-4">
+        <div class="card" style="width: 18rem;">
+          <img src="./courtier3.jpg" class="card-img-top" alt="...">
+          <div class="card-body" style='background-color :#cbedbf'>
+            <h5 class="card-title">Dik Hed</h5>
+            <p class="card-text">L'un de nos courtier spécialisé dans le commerce d'or et de pierres précieuses.</p>
+            <a href="#" class="btn btn-outline-light" id='babygreen'>Télécharger la brochure</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-6" style ='padding: 30px; color : #235558; background-color : #cbedbf; border-radius: 10px 0 0 10px;'>
+        <h2>
+          Une Renomée Internationale<br><br>
+          <small>
+            Square Finance est un groupe de traders des quatres coins du mondes. Chacun de nos courtier est méticuleusement sélectionné selon nos critères d'excellence.
+          </small>
+        </h2>
+      </div>
+      <div class="col-1" style='background-color :#B43B76; border-radius: 0 10px 10px 0;'>
+      </div>
+    </div>
+  </div>
